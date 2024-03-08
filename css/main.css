@@ -75,7 +75,7 @@ body{
 
 #text{
     margin-top:10vw;
-    margin-left:5vw;
+    margin-left:2vw;
     float:left;
     font-size:4vw;
     font-weight:700;
@@ -92,6 +92,7 @@ body{
 }
 #secondtext{
     margin-top:-2vw;
+    font-size:3.5vw;
 }
 #thirdtext{
     margin-top:-2vw;
@@ -111,11 +112,13 @@ body{
     margin-left:54vw;
     width:40vw;
     margin-bottom:4vw;
+    border-radius:10%;
 }
 .left{
     margin-left:0vw;
     width:40vw;
     margin-bottom:4vw;
+    border-radius:10%;
 }
 
 .textbox1{
